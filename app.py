@@ -7,7 +7,7 @@ app.register_blueprint(elementos)
 
 @app.errorhandler(404)
 def error(error):
-    return 'error',404  
+    return 'seccion no encontrada',404  
 
 if __name__ == '__main__':
     app.run(debug=False,port=5000)

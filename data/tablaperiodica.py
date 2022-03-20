@@ -53,7 +53,7 @@ diccionario = [
         'serie':'no metales',
         'simbolo':'N',
         'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'descubridor':'1772 Daniel Rutherford'
     },
     {
         'nombre':'Oxigeno',
@@ -61,76 +61,76 @@ diccionario = [
         'serie':'no metales',
         'simbolo':'0',
         'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'descubridor':'1773 Carl Wilhelm Scheele'
     },
     {
         'nombre':'Fluor',
         'electrones': 9,
-        'serie':'no metales',
+        'serie':'halogenos',
         'simbolo':'F',
         'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'descubridor':'1780 Carlos Sabéele'
     },
     {
         'nombre':'Neon',
         'electrones': 10,
-        'serie':'no metales',
+        'serie':'gases nobles',
         'simbolo':'Ne',
         'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'descubridor':'1898 William Ramsay y Morris Travers en Londres'
     },
     {
-        'nombre':'Sondio',
+        'nombre':'Sodio',
         'electrones': 11,
-        'serie':'no metales',
+        'serie':'metales alcalinos',
         'simbolo':'Na',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '22.98976928(2) u',
+        'descubridor':'Conocido desde la epoca medieval'
     },
     {
         'nombre':'Magnesio',
         'electrones': 12,
-        'serie':'no metales',
+        'serie':'metales alcalinoterreos',
         'simbolo':'Mg',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '24,312 u',
+        'descubridor':'1755 Joseph Black'
     },
     {
         'nombre':'Aluminio',
         'electrones': 13,
-        'serie':'no metales',
+        'serie':'metales del bloque p',
         'simbolo':'Al',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '26,9815386(8) u',
+        'descubridor':'1825 H. C. Orsted.'
     },
     {
-        'nombre':'Silice',
+        'nombre':'Silicio',
         'electrones': 14,
-        'serie':'no metales',
+        'serie':'metaloides',
         'simbolo':'Si',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '28,085 u',
+        'descubridor':'--'
     },
     {
         'nombre':'Fosforo',
         'electrones': 15,
         'serie':'no metales',
         'simbolo':'P',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '30,9737620 u',
+        'descubridor':'1669 Hennig Brand'
     },
     {
         'nombre':'Azufre',
         'electrones': 16,
         'serie':'no metales',
         'simbolo':'S',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '32,065(5) u',
+        'descubridor':'Conocido desde la antiguedad'
     },
     {
         'nombre':'Cloro',
         'electrones': 17,
-        'serie':'no metales',
+        'serie':'halogenos',
         'simbolo':'Cl',
         'masa': '12,0107 u',
         'descubridor':'Los antiguos'
@@ -138,409 +138,409 @@ diccionario = [
     {
         'nombre':'Argon',
         'electrones': 18,
-        'serie':'no metales',
+        'serie':'gases nobles',
         'simbolo':'Ar',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '39,948 u',
+        'descubridor':'1892 Rayleigh y Sir William Ramsay'
     },
     {
         'nombre':'Potasio',
         'electrones': 19,
-        'serie':'no metales',
+        'serie':'metales alcalinos',
         'simbolo':'K',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '39,0983 u',
+        'descubridor':'1807 Humphry Davy'
     },
     {
         'nombre':'Calcio',
         'electrones': 20,
-        'serie':'no metales',
+        'serie':'metales alcalinoterreos',
         'simbolo':'Ca',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '40,078 u',
+        'descubridor':'1808 Humphry Davy'
     },
     {
         'nombre':'Escandio',
         'electrones': 21,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Sc',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '44,955910 u',
+        'descubridor':'1879 Escandinavia'
     },
     {
         'nombre':'Titanio',
         'electrones': 22,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Ti',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '47,867(1) u',
+        'descubridor':'1791 William Gregor en una mina de Cornualles, Gran Bretaña, y en 1795 por Martin Heinrich Klaproth'
     },
     {
         'nombre':'Vanadio',
         'electrones': 23,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'V',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '50,9415 u',
+        'descubridor':'1801  Andrés Manuel del Río -  redescubierto en 1831 por el químico sueco Nils Gabriel Sefstrom'
     },
     {
         'nombre':'Cromo',
         'electrones': 24,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Cr',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '51,9961 u',
+        'descubridor':'1766 Johann Gottlob Lehmann'
     },
     {
         'nombre':'Manganeso',
         'electrones': 25,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Mn',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '54,938049 u',
+        'descubridor':'Desde la antiguedad'
     },
     {
         'nombre':'Hierro',
         'electrones': 26,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Fe',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '55,847 u',
+        'descubridor':'Desde la antiguedad 4000 a.C'
     },
     {
         'nombre':'Cobalto',
         'electrones': 27,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Co',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '58,933200 u',
+        'descubridor':'Usado desde la antiguedad, 1730/1737  George Brandt '
     },
     {
         'nombre':'Niquel',
         'electrones': 28,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Ni',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '58,6934 u',
+        'descubridor':'Usado desde la antiguedad siglo IV a.C'
     },
     {
         'nombre':'Cobre',
         'electrones': 29,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Cu',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '63,546 u',
+        'descubridor':'Usado desde la antiguedad 7000 a.C'
     },
     {
         'nombre':'Zinc',
         'electrones': 30,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Zn',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '65,38 u',
+        'descubridor':'Desde la antiguedad 1500-1000 a.C'
     },
     {
         'nombre':'Galio',
         'electrones': 31,
-        'serie':'no metales',
+        'serie':'metales del bloque p',
         'simbolo':'Ga',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '69,723 u',
+        'descubridor':'1875 Lecoq de Boisbaudran'
     },
     {
         'nombre':'Germanio',
         'electrones': 32,
-        'serie':'no metales',
+        'serie':'metaloides',
         'simbolo':'Ge',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '72,64 u',
+        'descubridor':'1886 Clemens Winkler'
     },
     {
-        'nombre':'Arsénico',
+        'nombre':'Arsenico',
         'electrones': 33,
-        'serie':'no metales',
+        'serie':'metaloides',
         'simbolo':'As',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '74,92160 u',
+        'descubridor':'Desde la antiguedad'
     },
     {
         'nombre':'Selenio',
         'electrones': 34,
         'serie':'no metales',
         'simbolo':'Se',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '78,96 u',
+        'descubridor':'1817 Jöns Jacob Berzelius'
     },
     {
         'nombre':'Bromo',
         'electrones': 35,
-        'serie':'no metales',
+        'serie':'halogenos',
         'simbolo':'Br',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '79,909 u',
+        'descubridor':'1826 Antoine-Jérôme Balard'
     },
     {
         'nombre':'Krypton',
         'electrones': 36,
-        'serie':'no metales',
+        'serie':'gases nobles',
         'simbolo':'Kr',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '83,80 u',
+        'descubridor':'1898 por Sir William Ramsay y Morris W. Travers'
     },
     {
         'nombre':'Rubidio',
         'electrones': 37,
-        'serie':'no metales',
+        'serie':'metales alcalinos',
         'simbolo':'Rb',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '85,4678 u',
+        'descubridor':' 1861 por Robert Bunsen y Gustav Kirchhoff '
     },
     {
         'nombre':'Estroncio',
         'electrones': 38,
-        'serie':'no metales',
+        'serie':'metales alcalinoterreos',
         'simbolo':'Sr',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '87,62 u',
+        'descubridor':'1790 por Adair Crawford'
     },
     {
         'nombre':'Itrio',
         'electrones': 39,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Y',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '88,90585 u',
+        'descubridor':'1794 Johan Gadolin'
     },
     {
         'nombre':'Zirconio',
         'electrones': 40,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Zr',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '91,224 u',
+        'descubridor':'1789 Martin Heinrich Klaproth'
     },
     {
         'nombre':'Niobio',
         'electrones': 41,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Nb',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '92,90638 u',
+        'descubridor':'1949 Charles Hatchett '
     },
     {
         'nombre':'Molibdeno',
         'electrones': 42,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Mo',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '95,94 u',
+        'descubridor':'1778 Carl Wilhelm Scheele'
     },
     {
         'nombre':'Tecnecio',
         'electrones': 43,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Tc',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '98,90631 u',
+        'descubridor':'1952'
     },
     {
         'nombre':'Rutenio',
         'electrones': 44,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Ru',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '101,07 u',
+        'descubridor':'1844 Karl Ernst Claus'
     },
     {
         'nombre':'Rodio',
         'electrones': 45,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Rh',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '102,90550 u',
+        'descubridor':'Sin info'
     },
     {
         'nombre':'Paladio',
         'electrones': 46,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Pd',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '106,42 u',
+        'descubridor':'Conocido desde la  antiguedad'
     },
     {
         'nombre':'Plata',
         'electrones': 47,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Ag',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '107,8683 u',
+        'descubridor':'Conocido desde la  antiguedad'
     },
     {
         'nombre':'Cadmio',
         'electrones': 48,
-        'serie':'no metales',
+        'serie':'metales de transicion',
         'simbolo':'Cd',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '112,411 u',
+        'descubridor':'1817 Friedrich Strohmeyer.'
     },
     {
         'nombre':'Indio',
         'electrones': 49,
-        'serie':'no metales',
+        'serie':'metales del bloque p',
         'simbolo':'Ag',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '114,818 u',
+        'descubridor':'1863 Ferdinand Reich y Theodor Richter'
     },
     {
         'nombre':'Estanio',
         'electrones': 50,
-        'serie':'no metales',
+        'serie':'metales del bloque p',
         'simbolo':'Sn',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '118,710 u',
+        'descubridor':'Conocido desde la  antiguedad 2000 a.C'
     },
     {
         'nombre':'Antimonio',
         'electrones': 51,
-        'serie':'no metales',
+        'serie':'metaloides',
         'simbolo':'Sb',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '121,760 u',
+        'descubridor':'Conocido desde la  antiguedad 6000 a.C'
     },
     {
-        'nombre':'Teluro',
+        'nombre':'Telurio',
         'electrones': 52,
-        'serie':'no metales',
+        'serie':'metaloides',
         'simbolo':'Te',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '127,6 u',
+        'descubridor':'1798 Martin Heinrich Klaproth'
     },
     {
         'nombre':'Iodo',
         'electrones': 53,
-        'serie':'no metales',
+        'serie':'halogenos',
         'simbolo':'I',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '126,90447 u',
+        'descubridor':'1811 Bernard Courtois'
     },
     {
         'nombre':'Xenon',
         'electrones': 54,
-        'serie':'no metales',
+        'serie':'gases nobles',
         'simbolo':'Xe',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '131,293 u',
+        'descubridor':'1989 William Ramsay y Morris Travers'
     },
     {
         'nombre':'Cesio',
         'electrones': 55,
-        'serie':'no metales',
+        'serie':'metales alcalinos',
         'simbolo':'Cs',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '132,90545 u',
+        'descubridor':' 1860 Robert Bunsen y por Gustav Kirchhoff'
     },
     {
         'nombre':'Bario',
         'electrones': 56,
-        'serie':'no metales',
+        'serie':'metales alcalinoterreos',
         'simbolo':'Ba',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '137,327 u',
+        'descubridor':'Edad media'
     },
     {
         'nombre':'Lantano',
         'electrones': 57,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'La',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '138,9055 u',
+        'descubridor':'1839 Carl Gustaf Mosander'
     },
     {
         'nombre':'Cerio',
         'electrones': 58,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Ce',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '140,116 u',
+        'descubridor':'1803 por Martin Heinrich Klaproth y Jons Jacob Berzelius'
     },
     {
         'nombre':'Praseodimio',
         'electrones': 59,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Pr',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '140,90765 u',
+        'descubridor':'Entre 1841 y 1874 varias quimicos'
     },
     {
         'nombre':'Neodimio',
         'electrones': 60,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Nd',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '144,24 u',
+        'descubridor':'1885  Carl Auer von Welsbach,'
     },
     {
-        'nombre':'Promecio',
+        'nombre':'Prometio',
         'electrones': 61,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Pm',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '145 u',
+        'descubridor':'1944  Jacob A. Marinsky, Lawrence E. Glendenin y Charles D. Coryell '
     },
     {
         'nombre':'Samario',
         'electrones': 62,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Sm',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '150,35 u',
+        'descubridor':'1853 por el químico suizo Jean Charles Galissard de Marignac y aislado en 1879 por el químico francés Paul Emile Lecoq de Boisbaudran'
     },
     {
         'nombre':'Europio',
         'electrones': 63,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Eu',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '151,964 u',
+        'descubridor':' 1890 por Paul Emile Lecoq de Boisbaudran y aislado por primera vez por Eugène Demarcay'
     },
     {
         'nombre':'Gadolinio',
         'electrones': 64,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Gd',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '157,25 u',
+        'descubridor':'1880 Jean Charles Galissard de Marignac'
     },
     {
         'nombre':'Terbio',
         'electrones': 65,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Tb',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '158,92534 u',
+        'descubridor':'1843 Carl Gustaf Mosander,'
     },
     {
         'nombre':'Disprosio',
         'electrones': 66,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Dy',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '158,924 u',
+        'descubridor':'1886 Paul Émile Lecoq de Boisbaudran'
     },
     {
         'nombre':'Holmio',
         'electrones': 67,
-        'serie':'no metales',
+        'serie':'lantanidos',
         'simbolo':'Ho',
-        'masa': '12,0107 u',
-        'descubridor':'Los antiguos'
+        'masa': '164,9304 u',
+        'descubridor':'1878 Marc Delafontaine y Jacques-Louis Soret'
     },
     {
         'nombre':'Erbio',
         'electrones': 68,
         'serie':'lantanidos',
         'simbolo':'Er',
-        'masa': '12,0107 u',
+        'masa': '167,259 u',
         'descubridor':'19843 Carl Gustaf Mosander'
     },
     {
@@ -706,7 +706,7 @@ diccionario = [
     {
         'nombre':'Actinio',
         'electrones': 89,
-        'serie':'actnidos',
+        'serie':'actinidos',
         'simbolo':'Ac',
         'masa': '12,0107 u',
         'descubridor':'1899 André-Louis Debierne '
@@ -714,7 +714,7 @@ diccionario = [
     {
         'nombre':'Torio',
         'electrones': 90,
-        'serie':'actnidos',
+        'serie':'actinidos',
         'simbolo':'Th',
         'masa': '12,0107 u',
         'descubridor':'Jöns Jakob Berzelius lo aisló por primera vez en 1828'
@@ -722,7 +722,7 @@ diccionario = [
     {
         'nombre':'Protactinio',
         'electrones': 91,
-        'serie':'actnidos',
+        'serie':'actinidos',
         'simbolo':'Pa',
         'masa': '12,0107 u',
         'descubridor':'1913 Kasimir Fajans y O.H. Göhring'
@@ -730,7 +730,7 @@ diccionario = [
     {
         'nombre':'Uranio',
         'electrones': 92,
-        'serie':'actnidos',
+        'serie':'actinidos',
         'simbolo':'Pa',
         'masa': '12,0107 u',
         'descubridor':'1789 por M. H. Klaproth'
@@ -738,7 +738,7 @@ diccionario = [
     {
         'nombre':'Neptunio',
         'electrones': 93,
-        'serie':'actnidos',
+        'serie':'actinidos',
         'simbolo':'Np',
         'masa': '12,0107 u',
         'descubridor':'1940 por Edwin Mattison McMillan y Philip Hauge Abelson '
@@ -746,7 +746,7 @@ diccionario = [
     {
         'nombre':'Plutonio',
         'electrones': 94,
-        'serie':'actnidos',
+        'serie':'actinidos',
         'simbolo':'Pu',
         'masa': '12,0107 u',
         'descubridor':'1940 por un equipo dirigido por Glenn T. Seaborg y Edwin McMillan en el laboratorio de la Universidad de California, Berkeley'
