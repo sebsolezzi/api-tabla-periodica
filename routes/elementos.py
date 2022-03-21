@@ -31,7 +31,7 @@ def return_por_electrones(electrones):
     if len(lista) >= 1:
         return jsonify(lista),200
     else:
-        return jsonify(listae),204
+        return jsonify(lista),204
 
 
 #regresa un json con el elemento de la tabla que tenga ese simbolo
