@@ -4,6 +4,8 @@ from flask_cors import CORS,cross_origin
 
 elementos = Blueprint('elementos',__name__)
 
+CORS(elementos)
+
 @elementos.route('/')
 @cross_origin()
 def render_index():
